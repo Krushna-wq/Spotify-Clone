@@ -84,5 +84,6 @@ Hi! I’m Krishna Patil, exploring web development by recreating real-world UIs.
 
 
 Note: This clone is purely for learning purposes and does not include any functionality to play music. It’s only a static front-end replica.
+**“This project is purely for educational purposes and is not affiliated with Spotify.”**
 
 
